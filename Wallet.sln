@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{7728
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.Service", "Wallet.Service\Wallet.Service.csproj", "{E52EC43A-F8B8-4F4B-87DA-45FDA949624B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{139009B7-8C4E-476F-9ECF-C120C8C0EDCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{F4A3605E-9DB2-496F-89F0-66274935BCD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,10 +38,10 @@ Global
 		{E52EC43A-F8B8-4F4B-87DA-45FDA949624B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E52EC43A-F8B8-4F4B-87DA-45FDA949624B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E52EC43A-F8B8-4F4B-87DA-45FDA949624B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{139009B7-8C4E-476F-9ECF-C120C8C0EDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{139009B7-8C4E-476F-9ECF-C120C8C0EDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{139009B7-8C4E-476F-9ECF-C120C8C0EDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{139009B7-8C4E-476F-9ECF-C120C8C0EDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A3605E-9DB2-496F-89F0-66274935BCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A3605E-9DB2-496F-89F0-66274935BCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A3605E-9DB2-496F-89F0-66274935BCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A3605E-9DB2-496F-89F0-66274935BCD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A30FC025-88ED-4015-8EC1-B89BE2294463} = {A6A833A5-3617-497F-9E8E-7E7538BF7A86}

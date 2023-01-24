@@ -5559,35 +5559,37 @@
     ]
   },
   "packageFolders": {
-    "/home/lenovo/.nuget/packages/": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lenovo/Wallet/Wallet.Service/Wallet.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.Service\\Wallet.Service.csproj",
       "projectName": "Wallet.Service",
-      "projectPath": "/home/lenovo/Wallet/Wallet.Service/Wallet.Service.csproj",
-      "packagesPath": "/home/lenovo/.nuget/packages/",
-      "outputPath": "/home/lenovo/Wallet/Wallet.Service/obj/",
+      "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.Service\\Wallet.Service.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lenovo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/lenovo/Wallet/Wallet.DAL/Wallet.DAL.csproj": {
-              "projectPath": "/home/lenovo/Wallet/Wallet.DAL/Wallet.DAL.csproj"
+            "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.DAL\\Wallet.DAL.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.DAL\\Wallet.DAL.csproj"
             },
-            "/home/lenovo/Wallet/Wallet.Domain/Wallet.Domain.csproj": {
-              "projectPath": "/home/lenovo/Wallet/Wallet.Domain/Wallet.Domain.csproj"
+            "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.Domain\\Wallet.Domain.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\Wallet\\Wallet.Domain\\Wallet.Domain.csproj"
             }
           }
         }
@@ -5607,7 +5609,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -5616,7 +5619,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

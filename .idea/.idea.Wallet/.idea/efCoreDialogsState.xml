@@ -3,10 +3,11 @@
   <component name="EfCoreDialogsState">
     <option name="keyValueStorage">
       <map>
+        <entry key="Common:a2ab818b-730f-4549-b2bb-7c91dcf8d1fa:dbContext" value="Wallet.DAL.AppDbContext" />
         <entry key="Common:buildConfiguration" value="Debug" />
         <entry key="Common:dbContext" value="Wallet.DAL.AppDbContext" />
         <entry key="Common:noBuild" value="false" />
-        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:outputFolder" value="MigrationsConsole" />
         <entry key="Common:useDefaultConnection" value="true" />
       </map>
     </option>
