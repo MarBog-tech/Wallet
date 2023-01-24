@@ -1,0 +1,17 @@
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.DAL.deps.json
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.DAL.runtimeconfig.json
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.DAL.dll
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/ref/Wallet.DAL.dll
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.DAL.pdb
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.Domain.dll
+/home/lenovo/Wallet/Wallet.DAL/bin/Debug/net6.0/Wallet.Domain.pdb
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.csproj.AssemblyReference.cache
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.AssemblyInfoInputs.cache
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.AssemblyInfo.cs
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.csproj.CoreCompileInputs.cache
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.csproj.CopyComplete
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.dll
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/ref/Wallet.DAL.dll
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.pdb
+/home/lenovo/Wallet/Wallet.DAL/obj/Debug/net6.0/Wallet.DAL.genruntimeconfig.cache
